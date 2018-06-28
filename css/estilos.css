@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+header {
+	background: #666;
+	padding: 20px;
+}
+
+header h1 {
+	color: #fff;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: sans-serif;
+}
